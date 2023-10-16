@@ -56,7 +56,7 @@ const products = [
       },
       {
         code: "lightgray",
-        img: "crater2.png",
+        img: "Telegram.png",
       },
     ],
   },
