@@ -52,7 +52,7 @@ const products = [
     colors: [
       {
         code: "black",
-        img: "telegram.png",
+        img: "Telegram.png",
       },
       {
         code: "lightgray",
